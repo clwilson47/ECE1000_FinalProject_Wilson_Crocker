@@ -14,7 +14,7 @@ import math
 import utime
 
 
-#This code shows the X/Y and switch joystick pins.We have the X" pin on GP pin 27, and the "Y" pin on GP(26). Analog-to-Digital Converter(ADC) pins are needed because it allows us to convert the voltage in the joystick to binary numbers.
+#This code shows the X/Y and switch joystick pins.We have the "X" pin on GP pin 27, and the "Y" pin on GP(26). Analog-to-Digital Converter(ADC) pins are needed because it allows us to convert the voltage in the joystick to binary numbers.
 adc_x_joystick = ADC(Pin(26))
 adc_y_joystick = ADC(Pin(27))
 #This code is for the switch pin of the joystick,it doesn't need to be a ADC pin because it is either 0/1 meaning on or off.
