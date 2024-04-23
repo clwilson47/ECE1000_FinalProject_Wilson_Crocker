@@ -1,4 +1,4 @@
-#This script was inspired by Youtuber Paul McWhorter https://www.youtube.com/@paulmcwhorter.
+#This script was inspired by Youtuber Paul McWhorter https://www.youtube.com/@paulmcwhorter & our TA(Teaching Assistant) JC Williams jawilliams46@tntech.edu
 # Videos used:
 #     https://www.youtube.com/watch?v=KpDIv0i41Tw&t=953s
 #     https://www.youtube.com/watch?v=ayY2wOJmrUE&t=1136s
